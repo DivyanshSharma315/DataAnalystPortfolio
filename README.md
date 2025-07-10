@@ -3,6 +3,7 @@ Welcome to my Data Analysis Portfolio! This repository is a curated collection o
 Whether you're a recruiter, data enthusiast, or fellow analyst, feel free to explore my work to see how I approach real-world data problems.
 
  What You’ll Find Here
+ 
 This repository will be continuously updated with new projects and notebooks. Here are some of the types of work included:
 
  Exploratory Data Analysis (EDA)

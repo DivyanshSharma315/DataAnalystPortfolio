@@ -6,8 +6,8 @@ Whether you're a recruiter, data enthusiast, or fellow analyst, feel free to exp
  
 This repository will be continuously updated with new projects and notebooks. Here are some of the types of work included:
 
- Exploratory Data Analysis (EDA)
+ Exploratory Data Analysis (EDA):
 Gain insights into datasets through visualizations and summary statistics.
 
- Data Cleaning & Preprocessing
+ Data Cleaning & Preprocessing:
 Transform raw, messy data into clean, analysis-ready formats using Python, Excel, and more.

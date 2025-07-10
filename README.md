@@ -4,7 +4,7 @@ Whether you're a recruiter, data enthusiast, or fellow analyst, feel free to exp
 
  What You’ll Find Here
  
-This repository will be continuously updated with new projects and notebooks. Here are some of the types of work included:
+ This repository will be continuously updated with new projects and notebooks. Here are some of the types of work included:
 
  Exploratory Data Analysis (EDA):
 Gain insights into datasets through visualizations and summary statistics.
